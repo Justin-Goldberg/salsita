@@ -1,5 +1,5 @@
 # salsita
-A shallow analogy to algorithms or package structure.
+A shallow analogy to algorithms and package structure.
 Contains the module dance.py.
 
 dance.salsa(measures) will print a mostly random sequence of salsa steps as strings,
